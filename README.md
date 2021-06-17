@@ -1,4 +1,4 @@
-# flamin.docker
+flamin.docker
 ====
 #### ***Docker & Golang - FaaS implementation***
 The aim of this project is to experiment FaaS (Function as a service), by implementing an infrastructure which permits to resize images with "on-demand" functionality.
